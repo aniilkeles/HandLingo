@@ -129,7 +129,7 @@ python app_desktop.py
 
 ## 👤 Author
 
-**Anıl Keleş** — 235060021
+**Anıl Keleş** 
 
 ## 📄 License
 
